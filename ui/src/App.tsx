@@ -1,7 +1,6 @@
 import { Box, List, ThemeIcon } from "@mantine/core";
 import { CheckCircleFillIcon, TrashIcon } from "@primer/octicons-react";
 import useSWR from "swr";
-import "./App.css";
 import AddTodo from "./components/AddTodo";
 
 export const Endpoint = "http://localhost:4000";
