@@ -1,6 +1,6 @@
 <h1 align="center">Todo-App</h1>
 
-![screenshot](https://github.com/nexxeln/todo-app/blob/main/images/screenshot.png?raw=true)
+![demo](https://raw.githubusercontent.com/nexxeln/todo-app/main/images/firefox_QGKTujR6QO.gif)
 
 ## Overview
 
