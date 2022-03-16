@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"log"
 
 	"github.com/gofiber/fiber/v2"
@@ -16,8 +15,6 @@ type Todo struct {
 }
 
 func main() {
-	fmt.Println("Hello, World!")
-
 	app := fiber.New()
 
 	app.Use(cors.New(cors.Config{
