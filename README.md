@@ -4,7 +4,7 @@
 
 ## Overview
 
-Lets be honest. There is not a better project that a simple todo app to get comfortable with whatever it is that you're using. In my case I learn how to make an API in Go and how to use TypeScript in React.
+Lets be honest. There is no better project than a simple todo app to get comfortable with whatever it is that you're using. In my case I learnt how to make an API in Go and how to use TypeScript in React.
 
 ## Built With
 
